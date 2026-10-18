@@ -1,3 +1,5 @@
+![Mortuary — Elaine Sharkey](mortuary_elaine_sharkey.png)
+
 # VICTIM PROFILE: ELAINE SHARKEY
 **BADGE / ID:** `CAST_01`  
 **AGE:** 22 (DOB: 14-May-2004)  
@@ -7,14 +9,14 @@
 ---
 
 ## 1. PUBLIC PERSONA VS. VILLA REPUTATION
-To the viewing public, Elaine cultivated the image of "America's Sweetheart"—soft-spoken, tearful during eliminations, and fiercely loyal to her Day 1 partner, **Jordan Vance-Sterling**, and her villa best friend, **Amber Kors**. 
+To the viewing public, Elaine cultivated the image of "America's Sweetheart"—soft-spoken, tearful during eliminations, and fiercely loyal to her Day 1 partner, **Jordan Vance-Sterling**, and her[...]
 
-Behind the scenes, production staff noted that Elaine was the most calculating strategist in Season 4. Having grown up in severe financial instability, Elaine viewed the **$500,000 finale prize** and the Solaris Influencer management contract as non-negotiable. On Day 48, after discovering that fellow contestant **Tamara V.** had mocked her background, Elaine systematically turned all seven couples against Tamara in a single afternoon while appearing completely innocent on the broadcast cut.
+Behind the scenes, production staff noted that Elaine was the most calculating strategist in Season 4. Having grown up in severe financial instability, Elaine viewed the **$500,000 finale prize** [...]
 
 ## 2. BEHAVIORS, QUIRKS & HABITS
-- **Information Hoarding:** Elaine was notorious for staying awake late in the West Wing bedrooms pretending to sleep while listening to other contestants whisper. She kept notes of other contestants *tea* on her crew-provided smartphone.
-- **Technical Problems:** Over the past three weeks, Elaine logged **eleven separate equipment maintenance tickets** claiming her wireless microphone pack or bedside intercom was "malfunctioning" after midnight, requiring late-night technical servicing near the courtyard waterfall.
-- **The Finale Gown:** Elaine was deeply possessive of her custom gold-sequined finale dress hanging in the **Finale Bridal Suite (Room 10)**, checking on it twice daily to ensure none of the rival girls sabotaged the zipper or hem.
+- **Information Hoarding:** Elaine was notorious for staying awake late in the West Wing bedrooms pretending to sleep while listening to other contestants whisper. She kept notes of other contesta[...]
+- **Technical Problems:** Over the past three weeks, Elaine logged **eleven separate equipment maintenance tickets** claiming her wireless microphone pack or bedside intercom was "malfunctioning" [...]
+- **The Finale Gown:** Elaine was deeply possessive of her custom gold-sequined finale dress hanging in the **Finale Bridal Suite (Room 10)**, checking on it twice daily to ensure none of the riva[...]
 
 ## 3. LAST KNOWN MOVEMENTS (17–18 OCTOBER)
 - **21:45:** Attended the courtyard briefing where Lead Engineer **Derek Vance** announced the 22:00–00:00 camera maintenance blackout.
