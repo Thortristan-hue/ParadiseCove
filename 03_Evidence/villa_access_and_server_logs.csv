@@ -1,0 +1,39 @@
+Timestamp,Event_Type,Credential_or_Node,Location_Room,Status,System_Telemetry_Notes
+2026-10-17 19:30:04,PERIMETER_LOCK,FERRY_SOLARIS_II,Mainland Pier,DEPARTED,15 mainland staff departed; 20 personnel on island
+2026-10-17 21:15:10,DOOR_ACCESS,STAFF_01,Room 30 (Hideaway B),UNLOCKED,Manual Septic Sensor Override cleared by STAFF_01
+2026-10-17 21:31:18,PERIMETER_LOCK,HELI_N409SM,East Helipad,ARRIVED,Host Jeanette Hastings (STAFF_05) arrived on island
+2026-10-17 21:52:00,DOOR_ACCESS,STAFF_03,North Roof Hatch,LOCKED_EXT,Tech Marcus Vance-Lowe sealed on roof for dish alignment
+2026-10-17 21:54:12,DOOR_ACCESS,STAFF_04,South Generator Bunker,LOCKED_EXT,Tech Sonia Patel sealed in bunker for load testing
+2026-10-17 21:56:40,DOOR_ACCESS,STAFF_01,Room 14 (Server Room),UNLOCKED,Lead Engineer Derek Vance enters Server Room 14
+2026-10-17 21:58:15,DOOR_ACCESS,STAFF_04_TEMP,Room 12 (Prop Storage),UNLOCKED,Prop Master Meichel Kemp exits Room 12 (left door unlatched)
+2026-10-17 22:00:02,BROADCAST_SYS,CONSOLE_14,Room 14 (Server Room),OFFLINE,STAFF_01 initiates 120-min Optical/Audio Blackout (Cams 001-114)
+2026-10-17 22:10:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed (Patch Block 1/4)
+2026-10-17 22:16:08,DOOR_ACCESS,STAFF_02,Room 10 (Finale Suite Main),UNLOCKED,Lost STAFF_02 badge used to unlock Room 10 front corridor door
+2026-10-17 22:20:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed (Patch Block 2/4)
+2026-10-17 22:21:44,DOOR_ACCESS,CAST_07,Room 03 (Lounge 3),UNLOCKED,Cody Banks & Trixxy Bell enter Lounge 3
+2026-10-17 22:28:19,DOOR_ACCESS,STAFF_02,Room 10 (Finale Suite Main),CLOSED,Room 10 front door closed (Jackson & Jana exit toward Courtyard)
+2026-10-17 22:30:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed
+2026-10-17 22:38:05,DOOR_ACCESS,CAST_01,Room 08 (Confession Hall),UNLOCKED,Victim Elaine Sharkey swipes into Confession Hall corridor
+2026-10-17 22:40:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed
+2026-10-17 22:41:12,DOOR_ACCESS,CAST_03,Room 08 (Confession Hall),UNLOCKED,Amber Kors swipes into Confession Hall corridor
+2026-10-17 22:50:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed (Patch Block 3/4)
+2026-10-17 23:00:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Keystroke heartbeat confirmed
+2026-10-17 23:04:18,DOOR_ACCESS,CAST_01,Room 10 (Finale Suite Main),UNLOCKED,Victim Elaine Sharkey enters Room 10 via Central Corridor
+2026-10-17 23:06:12,PAGER_NET,PAGER_CAST_01,Room 10 -> Room 14,DELIVERED,Urgent message received at CONSOLE_14: 'RM10 NOW OR 00:00 LIVE'
+2026-10-17 23:07:02,DOOR_ACCESS,CAST_04,Room 01 (Lounge 1),UNLOCKED,Andrew Miller swipes into Lounge 1 (Central Pavilion entrance)
+2026-10-17 23:10:00,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),ACTIVE,Last manual keystroke recorded at CONSOLE_14 before idle gap
+2026-10-17 23:11:45,DOOR_ACCESS,STAFF_01,Service Corridor North,UNLOCKED,Derek Vance exits Room 14 into Rear Production Service Corridor
+2026-10-17 23:12:30,DOOR_ACCESS,STAFF_04_TEMP,West Wing Tool Crib,UNLOCKED,Meichel Kemp swipes into West Wing Tool Crib for fiber crimper
+2026-10-17 23:15:00,SERVER_ALERT,CONSOLE_14,Room 14 (Server Room),IDLE_WARN,WARNING: Zero keyboard/mouse input at CONSOLE_14 for 300s
+2026-10-17 23:18:14,DOOR_ACCESS,STAFF_01,Room 12 (Prop Storage),UNLOCKED,Master Badge STAFF_01 unlocks Prop Storage & Trophy Room
+2026-10-17 23:20:00,SERVER_ALERT,CONSOLE_14,Room 14 (Server Room),IDLE_LOCK,CRITICAL: CONSOLE_14 locked due to operator absence (10 min idle)
+2026-10-17 23:25:00,SERVER_ALERT,CONSOLE_14,Room 14 (Server Room),IDLE_LOCK,CRITICAL: CONSOLE_14 remains unattended (15 min idle)
+2026-10-17 23:30:00,SERVER_ALERT,CONSOLE_14,Room 14 (Server Room),IDLE_LOCK,CRITICAL: CONSOLE_14 remains unattended (20 min idle)
+2026-10-17 23:31:09,DOOR_ACCESS,STAFF_01,Room 12 (Prop Storage),UNLOCKED,Master Badge STAFF_01 re-enters Prop Storage (4-minute duration)
+2026-10-17 23:35:18,DOOR_ACCESS,STAFF_05,Room 09 (Host Suite),OPENED,Host Jeanette Hastings opens Room 09 door into corridor
+2026-10-17 23:36:02,DOOR_ACCESS,STAFF_01,Room 14 (Server Room),UNLOCKED,Master Badge STAFF_01 returns to Server Room 14 from Service Corridor
+2026-10-17 23:40:00,SERVER_ALERT,CONSOLE_14,Room 14 (Server Room),IDLE_LOCK,CRITICAL: CONSOLE_14 unattended (30 min idle); password failed 2x
+2026-10-17 23:42:11,SERVER_INPUT,CONSOLE_14,Room 14 (Server Room),RESUMED,STAFF_01 unlocks CONSOLE_14 after 32-minute absence; forces reboot
+2026-10-17 23:54:10,DOOR_ACCESS,STAFF_05,Room 02 (Lounge 2),UNLOCKED,Host Jeanette Hastings enters Lounge 2
+2026-10-17 23:59:58,BROADCAST_SYS,CONSOLE_14,All Villa Cameras,LIVE_ON,120-min maintenance timer expired; Cams 001-114 & Web Stream LIVE
+2026-10-18 00:09:52,DOOR_ACCESS,CAST_02,Room 10 (Finale Suite Main),UNLOCKED,Jordan Vance-Sterling swipes into Room 10 and discovers body

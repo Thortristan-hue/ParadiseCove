@@ -1,0 +1,62 @@
+================================================================================
+OFFICE OF THE CIRCUIT MEDICAL EXAMINER — INSULAR JURISDICTION
+PRELIMINARY AUTOPSY & FORENSIC PATHOLOGY REPORT
+CASE NO: 2026-PC09 // DECEDENT: SHARKEY, ELAINE (FEMALE, AGE 22)
+EXAMINING PATHOLOGIST: Dr. V. Aris, M.D., Chief Forensic Pathologist
+DATE/TIME OF EXAMINATION: 18 October 2026 @ 02:15
+================================================================================
+
+1. EXTERNAL EXAMINATION & CLOTHING:
+The body is that of a well-nourished 22-year-old female (height: 168 cm, weight: 
+56 kg) clad in a floor-length gold-sequined evening gown with a low-cut open back
+extending to the T6 vertebra. Rigor mortis is minimal in the jaw and upper 
+extremities; livor mortis is fixed anteriorly, consistent with the body lying 
+prone (face-down) on the cold marble floor prior to discovery.
+
+2. ESTIMATED TIME OF DEATH (ETD):
+Based on core hepatic temperature (35.1°C at 01:20), ambient room temperature 
+(21.0°C), and vitreous potassium levels:
+  -> PRIMARY ETD WINDOW: 17 October 2026 between 23:15 and 23:45.
+
+3. NON-LETHAL TRAUMA (SECONDARY FINDING):
+Located across the left zygomatic arch and malar cheek is a fresh, non-lethal 
+blunt-force contusion (7.5 cm x 4.0 cm) consistent with an open-handed slap 
+slightly before death.
+  - TRACE RECOVERY (CHEEK): Adhered to the epidermis within the contusion margin 
+    are microscopic flakes of rose-pink cosmetic hydrogel containing coarse 
+    hexagonal synthetic fluorphlogopite (mica) glitter particles, plus a 2 mm 
+    crescent-shaped micro-abrasion consistent with a manicured acrylic fingernail.
+
+4. LETHAL TRAUMA (CAUSE OF DEATH):
+Located on the posterior left thorax (upper left back), 4.5 cm lateral to the 
+midline at the fourth intercostal space, is a single penetrating stab wound.
+  - WOUND GEOMETRY: The cutaneous entry margin is a jagged, triangular-to-stellate
+    defect measuring 22 mm in width. The wound track passes anteriorly and slightly
+    downward at a 15-degree angle to a total depth of 14.2 cm, perforating the 
+    posterior pericardium and penetrating the left ventricular myocardium.
+  - EXCLUSION OF SCENE MIRROR: The shattered vanity mirror found adjacent to the 
+    body is composed of 4 mm flat soda-lime float glass (refractive index n = 1.518,
+    0% lead oxide). A falling flat sheet of 4 mm mirror glass is mechanically 
+    incapable of producing a 14.2 cm conical-spire wound track without wider 
+    laceration margins.
+
+5. TRACE & FOREIGN INCLUSION ANALYSIS (CRITICAL):
+  a) INTRACARDIAC SHARD: Recovered embedded inside the apex of the left ventricular
+     wall is a single 4.1 mm triangular tip fragment of colorless, high-density 
+     refractory glass/crystal. Portable XRF and refractometry analysis shows:
+       * Refractive Index: n = 1.545
+       * Chemical Composition: High-Lead Crystal (>24% Lead Oxide / PbO)
+       * Fracture Morphology: Fresh terminal spire cleavage (snapped off the point
+         of a heavy, steeply tapered pyramidal or heart-spired object).
+  b) CHEMICAL RESIDUE ON WOUND PERIMETER: Gas chromatography swabs of the posterior
+     skin margin surrounding the stab wound detected trace un-evaporated residues 
+     of anhydrous 99.9% optical-grade isopropyl alcohol (C3H8O) and lint-free 
+     microfiber polymer fibers, indicating the assailant wiped the skin or the 
+     extracted weapon immediately post-infliction. This specific fiber is common in cleaning high-end electronics, microsope/camera lenses, jewlery, and even hyperdermic needles used to inject substances into the bloodstream (like insulin and steroids).
+
+6. TOXICOLOGY (PRELIMINARY):
+Blood Alcohol Concentration (BAC): 0.09% (moderate intoxication, consistent with 
+2-3 glasses of sparkling wine). Negative for GHB, benzodiazepines, or narcotics.
+
+MANNER OF DEATH: HOMICIDE (Penetrating cardiac trauma via leaded-crystal spire).
+================================================================================

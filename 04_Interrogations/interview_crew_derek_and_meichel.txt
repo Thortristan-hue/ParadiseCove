@@ -1,0 +1,52 @@
+================================================================================
+INSULAR PATROL — PRELIMINARY FIELD INTERVIEW TRANSCRIPT
+SUBJECTS: DEREK VANCE (STAFF_01) & MICHAEL KEMP (STAFF_02 / STAFF_04_TEMP)
+INTERVIEWING OFFICER: Patrolman H. Keller (Badge #884)
+LOCATION: Production Corridor // DATE: 18 Oct 2026 @ 01:50
+================================================================================
+
+OFFICER KELLER: Let's keep this brief. You two were the only technical crew 
+members inside the main villa structure during the 22:00 to 00:00 blackout. 
+Mr. Vance, when I arrived at 00:25, you were on your hands and knees throwing 
+up in the hibiscus bushes outside Server Room 14.
+
+DEREK: (Wiping glasses, visibly trembling) It was the shrimp platter from the 
+19:00 crew catering tray, Officer. My stomach has been in knots all week. Do 
+you have any idea what kind of pressure Mainland Network put on me tonight? If 
+Firmware Patch v4.8.2 didn't compile cleanly by midnight, my entire department 
+was going to be fired tomorrow morning. I have a wife and two little kids at 
+home!
+
+OFFICER KELLER: Account for your movements between 22:00 and midnight, Mr. Vance.
+
+DEREK: I didn't move! That's what I'm telling you. I badged into Server Room 14 
+at 21:56, shut down the camera matrix at 22:00 sharp, and sat glued to 
+Console 14 for two straight hours compiling kernel blocks. You can't leave the 
+desk during a live matrix compile—the system requires manual confirmations! I 
+never stepped into the corridor, I never went into Prop Storage, and I barely 
+even knew Elaine Sharkey outside of fixing her mic pack!
+
+MEICHEL: (Clearing throat) Actually, Derek, didn't you fix her bedside sensor 
+like eleven times this month? And just for the record, Officer, my name is 
+spelled M-e-i-c-h-e-l. With an 'e-i'. Everyone writes 'Michael' on the call 
+sheets and it invalidates my union residuals.
+
+OFFICER KELLER: Noted, Mr. Kemp. Where were you during the blackout?
+
+MEICHEL: I was outside underneath the Soul Ties gazebo deck from 22:00 until 
+almost midnight, re-splicing corroded fiber-optic lines that the contestants 
+spilled margaritas on! Well—except for maybe twelve minutes around 23:12 when 
+I had to jog over to the West Wing tool crib to grab my RJ45 crimp tool.
+
+OFFICER KELLER: We found a crumpled foil wrapper for a wet-wipe on the floor of the crime scene in Room 10, right by the rear 
+service door. The manifest says those wipes belong to you.
+
+MEICHEL: (Blinking rapidly) Wait—my wipes?! Those are $48 a box! 
+I keep that dispenser box on the workbench right inside my quarters in Prop 
+Storage—Room 12! Only tech staff even know what those are! Look, I'll be totally 
+honest with you: my hands were full of cable spools when I left Room 12 at 
+21:58, so I left the Room 12 door unlatched for a bit. And... okay, don't yell 
+at me, Derek, but I lost my original STAFF_02 keycard near the pool two days 
+ago and cloned myself STAFF_04_TEMP so I wouldn't get written up! Maybe one 
+of the drunk contestants found my lost badge and stole a wipe?!
+================================================================================

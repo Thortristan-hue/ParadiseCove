@@ -1,0 +1,47 @@
+================================================================================
+INSULAR DISPATCH & AUTOMATED BROADCAST TELEMETRY LOG
+CASE REF: 2026-PC09 // PARADISE COVE PRODUCTION FACILITY
+TIME FORMAT: 24-HOUR (LOCAL ISLAND TIME)
+================================================================================
+
+[19:30:04] MARITIME LOG: Production Ferry "Solaris II" departs St. Jude Cay pier
+           for Mainland Editing Hub. 15 crew aboard. Mansion population locked at 20.
+[21:31:18] AVIATION LOG: Charter Helicopter N-409SM touches down at East Helipad.
+           Passenger manifest: Jeanette Hastings (Host). Mansion population: 21.
+[21:45:00] PROD LOG: Lead Broadcast Engineer (STAFF_01) addresses cast in Main 
+           Courtyard. Announces 22:00-00:00 camera & microphone maintenance blackout.
+[22:00:02] SYSTEM ALERT: Master Video Matrix (Cams 001-114) and RF Wireless Mic 
+           Receivers taken OFFLINE by terminal STAFF_01 for Firmware Patch v4.8.2.
+           --- [BEGIN 120-MINUTE OPTICAL/AUDIO BLACKOUT] ---
+
+[23:59:58] SYSTEM ALERT: Firmware Patch v4.8.2 timer expired. Automated Fail-Safe 
+           engaged. Master Video Matrix (Cams 001-114) and Global Web Stream 
+           restored to LIVE status.
+           --- [END OPTICAL/AUDIO BLACKOUT] ---
+
+[00:01:12] STREAM TELEMETRY: Cams 001-018 (Main Pool & Courtyard) show 12 contestants
+           intoxicated around firepits. Contestant Andrew Miller (CAST_04) observed
+           sleeping on cabana daybed with lacerated right knuckles.
+[00:04:45] STREAM TELEMETRY: Contestant Jordan Vance-Sterling (CAST_02) exits East
+           Lawn walkway, walking unsteadily toward Central Pavilion.
+[00:08:19] STREAM TELEMETRY: Cam 042 (Central Corridor) captures CAST_02 knocking on
+           Room 10 (Finale Bridal Suite). Calls out: "Babe? Elaine? Cams are back up,
+           producers want us in the lounge!"
+[00:09:52] STREAM TELEMETRY: CAST_02 opens unlocked main door to Room 10.
+[00:10:04] AUDIO LOG (CAM 043 - ROOM 10 INTERIOR):
+           CAST_02: "Elaine, what are you—oh God. Oh sh*t. Yo! Somebody help! 
+           There's glass everywhere! She's not breathing!"
+[00:10:15] STREAM TELEMETRY: Instead of exiting immediately, CAST_02 kneels beside
+           victim for 38 seconds, retrieves victim's pink production smartphone from
+           floor, taps screen rapidly, then places phone back near victim's hand.
+[00:10:55] STREAM TELEMETRY: CAST_02 runs into Central Corridor shouting for medics.
+[00:11:40] 911 DISPATCH: Emergency call received from Show Host Jeanette Hastings
+           (STAFF_05) via landline in Lounge 2. Reports contestant collapsed onto
+           broken mirror in Room 10.
+[00:18:55] MAINLAND OVERRIDE: Solaris Media Mainland Master Control severs primary
+           public video feed. Note: Secondary diagnostic web-streams remain active
+           due to local encryption lockout in Server Room 14.
+[00:21:30] SECURITY LOG: Coast guard patrol private paramedic and Island Patrol Officer Keller
+           enter Room 10. Victim pronounced deceased at 00:23:36.
+
+================================================================================

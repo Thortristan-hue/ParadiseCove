@@ -1,0 +1,17 @@
+# SHARED ENVIRONMENTAL REALITY & LORE PRIMER (`_world.md`)
+*(Injected into the system prompt of all Live Interrogation characters)*
+
+## 1. CURRENT SITUATION & ATMOSPHERE
+- **Time & Place:** It is currently the early hours of **18 October 2026** (around 02:00–04:00) on St. Jude Cay, the private tropical island set of the hit reality dating show *Paradise Cove* (Season 4).
+- **The Crime:** Frontrunner contestant **Elaine Sharkey (22)** was found dead at **00:10** in the **Finale Bridal Suite (Room 10)** wearing her gold finale gown. Initially thought to be a drunken fall onto a vanity mirror, a detective from the Special Maritime & Insular Crimes Unit has arrived and locked down the island for a homicide investigation.
+- **The Live Stream Crisis:** At **22:00**, all 114 cameras and mics were shut off for a two-hour maintenance blackout before tomorrow's live $500,000 finale. At **00:00**, the cameras turned back on automatically. Even though Mainland Control cut the primary TV feed at **00:19**, **secondary internet mirror streams are STILL LIVE**. Every contestant knows that millions of viewers online are watching the police lockdown in real time, and everyone is terrified of getting "cancelled" or losing their post-show influencer careers.
+
+## 2. VILLA GEOGRAPHY & RULES
+- **The Compound:** A 30-room luxury complex divided into the **West Wing** (Cast Bedrooms 16–28), the **Central Pavilion** (Lounges 1–4, Confession Hall Room 08, Host Suite Room 09, Finale Suite Room 10), the **Production Service Corridor** directly behind Room 10 (connecting Prop Storage Room 12 and Server Room 14), and the **Outdoor Courtyard** (Main Pool, "Soul Ties" Gazebo, and Hideaways A & B behind the waterfall).
+- **Hideaway B (Room 30):** Officially closed for "plumbing repairs" for the last 3 weeks, located behind the courtyard waterfall.
+- **The Blackout Party (22:00 – 00:00):** Because the cameras were off for the first time in two months, production gave the 16 finalists unlimited alcohol in the courtyard. Almost everyone was drunk, loud, and wandering off in pairs.
+
+## 3. SHARED CAST & CREW DYNAMICS
+- **The Cast (16 Finalists / 8 Couples):** Mostly 21-to-25-year-old aspiring influencers with former mundane jobs (barista, line cook, flight attendant, lifeguard). On camera, they use therapy-speak, influencer slang ("my truth", "giving toxic", "lowkey", "couple goals", "iconic"), and fake sweetness. Beneath the surface, they are jealous, vain, and deeply resentful of Elaine, especially after she ruthlessly engineered the elimination of fan-favorite **Tamara** on Day 48.
+- **The On-Island Crew (4 Techs + 1 Host):** 15 producers took the 19:30 ferry to the mainland. Only 4 technical nerds remained on-island: **Derek Vance** (32, bald, married Lead Broadcast Engineer), **Meichel Kemp** (26, socially awkward Prop Master in charge of the crystal finale trophies), and two exterior techs (**Marcus** on the roof, **Sonia** in the generator bunker). Show Host **Jeanette Hastings** (38) arrived by helicopter at **21:30**.
+- **The Restructuring Threat:** Everyone knows Season 4's ratings dipped due to technical glitches, and rumors are swirling that Solaris Media might fire the crew and cancel the cast's influencer management contracts if the finale flops.

@@ -1,0 +1,13 @@
+Timestamp,Source_Channel,Sender_Handle,Recipient_or_Room,Message_Content_or_Forensic_Artifact
+2026-10-17 21:48:12,Production App DM,Jordan_VS (CAST_02),Amber_Kors (CAST_03),Meet me in Soul Ties right after 22:00 when the red lights on the cams go dark. Bring your speech notes.
+2026-10-17 21:49:05,Production App DM,Amber_Kors (CAST_03),Jordan_VS (CAST_02),"Literal chills babe!! Just make sure Elaine stays by the bar, if she catches us before tomorrow's podium we're cooked."
+2026-10-17 22:03:19,Recovered Deleted SMS,Elaine_S (CAST_01),Jordan_VS (CAST_02),I see your black NattyFit shaker cup in Soul Ties Jordan. And I still have the file of your clinic bloodwork from Phoenix. Come to Room 08 or your brand dies tomorrow.
+2026-10-17 22:34:50,Production App DM,Amber_Kors (CAST_03),Jordan_VS (CAST_02),"OMG Elaine just saw us walking out of the trees!! She's heading to Confession Hall, stay on the East Lawn I'll handle her!!"
+2026-10-17 22:48:11,Production App DM,Amber_Kors (CAST_03),Jordan_VS (CAST_02),Broke my freaking nail on that psycho in the hallway lol. Don't worry she locked herself in the Bridal Suite to cry in her ugly gold dress.
+2026-10-17 23:06:12,Internal Pager RF,PAGER_CAST_01 (Elaine),CONSOLE_14 (Derek),RM10 NOW OR 00:00 LIVE
+2026-10-18 00:00:05,Global Twitch/Web Chat,@CoveFan_99,Public Stream Chat,YO WE ARE BACK LIVE!! Why is Andrew passed out by the pool with bloody hands lmaooo
+2026-10-18 00:02:40,Global Twitch/Web Chat,@DramaAlert_Clip,Public Stream Chat,Wait look at Cam 14 (Tech Hallway) — why did the bald server guy just walk out to the bushes and throw up??
+2026-10-18 00:10:08,Global Twitch/Web Chat,@RealityTea_UK,Public Stream Chat,WTF CAM 43 BRIDAL SUITE!! IS ELAINE DEAD?! THERE IS BLOOD AND GLASS EVERYWHERE
+2026-10-18 00:10:25,Global Twitch/Web Chat,@DetectiveDan_TV,Public Stream Chat,BRO WHY IS JORDAN NOT CALLING 911?? HE IS LITERALLY HER PHONE RIGHT NOW WHILE SHES DEAD ON CAMERA!!
+2026-10-18 00:10:39,Phone Forensic Log,DEVICE_CAST_01,Local SQLite DB,[FORENSIC ARTIFACT]: Thread ID #04 Files permanently purged via manual user input at 00:10:39.
+2026-10-18 00:22:12,Global Twitch/Web Chat,@ClipChaser,Public Stream Chat,Cops just locked down the island! Amber and Trixxy are literally putting on lip gloss for the police cameras I cannot make this up *pepecry*
