@@ -1,5 +1,3 @@
-![Mortuary — Elaine Sharkey](mortuary_elaine_sharkey.png)
-
 # VICTIM PROFILE: ELAINE SHARKEY
 **BADGE / ID:** `CAST_01`  
 **AGE:** 22 (DOB: 14-May-2004)  
